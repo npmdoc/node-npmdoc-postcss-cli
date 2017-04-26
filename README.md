@@ -1,6 +1,6 @@
 # npmdoc-postcss-cli
 
-#### api documentation for  [postcss-cli (v3.1.1)](https://github.com/postcss/postcss-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-postcss-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-postcss-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-postcss-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-postcss-cli)
+#### basic api documentation for  [postcss-cli (v3.2.0)](https://github.com/postcss/postcss-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-postcss-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-postcss-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-postcss-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-postcss-cli)
 
 #### CLI for PostCSS
 
@@ -61,8 +61,8 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "cccc4f8db12ad7e3058bf87aade68eaef2b4b7f1",
-        "tarball": "https://registry.npmjs.org/postcss-cli/-/postcss-cli-3.1.1.tgz"
+        "shasum": "6128d913e250d07f41834cc76f714882cfa247ab",
+        "tarball": "https://registry.npmjs.org/postcss-cli/-/postcss-cli-3.2.0.tgz"
     },
     "engines": {
         "node": ">=4"
@@ -72,7 +72,7 @@
         "index.js",
         "lib"
     ],
-    "gitHead": "32e540b24963fcb8a4eddcb551c28ae7baf6649b",
+    "gitHead": "1dac9bc5dd75488197fde1a83909a907e20cf588",
     "homepage": "https://github.com/postcss/postcss-cli#readme",
     "keywords": [
         "cli",
@@ -107,7 +107,7 @@
         "pretest": "npm run clean && npm run lint",
         "test": "nyc ava -v"
     },
-    "version": "3.1.1"
+    "version": "3.2.0"
 }
 ```
 
