@@ -1,10 +1,10 @@
-<svg height="2494" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="2494" fill="#555" width="720"></rect>
+<svg height="2542" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2542" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26">13 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
-<tspan x="10" y="74">└─┬ postcss-cli@3.1.1 </tspan>
+<tspan x="10" y="74">└─┬ postcss-cli@3.2.0 </tspan>
 <tspan x="10" y="90">  ├─┬ chalk@1.1.3 </tspan>
 <tspan x="10" y="106">  │ ├── ansi-styles@2.2.1 </tspan>
 <tspan x="10" y="122">  │ ├── escape-string-regexp@1.0.5 </tspan>
@@ -32,7 +32,7 @@
 <tspan x="10" y="474">  │ │   │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="490">  │ │   ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="506">  │ │   ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="522">  │ │   ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="522">  │ │   ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="538">  │ │   │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="554">  │ │   ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="570">  │ │   │ └── remove-trailing-separator@1.0.1 </tspan>
@@ -103,16 +103,16 @@
 <tspan x="10" y="1610">  │ └─┬ supports-color@3.2.3 </tspan>
 <tspan x="10" y="1626">  │   └── has-flag@1.0.0 </tspan>
 <tspan x="10" y="1642">  ├─┬ postcss-load-config@1.2.0 </tspan>
-<tspan x="10" y="1658">  │ ├─┬ cosmiconfig@2.1.1 </tspan>
-<tspan x="10" y="1674">  │ │ ├─┬ js-yaml@3.8.3 </tspan>
-<tspan x="10" y="1690">  │ │ │ ├─┬ argparse@1.0.9 </tspan>
-<tspan x="10" y="1706">  │ │ │ │ └── sprintf-js@1.0.3 </tspan>
-<tspan x="10" y="1722">  │ │ │ └── esprima@3.1.3 </tspan>
-<tspan x="10" y="1738">  │ │ ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="1754">  │ │ ├── os-homedir@1.0.2 </tspan>
-<tspan x="10" y="1770">  │ │ ├─┬ parse-json@2.2.0 </tspan>
-<tspan x="10" y="1786">  │ │ │ └─┬ error-ex@1.3.1 </tspan>
-<tspan x="10" y="1802">  │ │ │   └── is-arrayish@0.2.1 </tspan>
+<tspan x="10" y="1658">  │ ├─┬ cosmiconfig@2.1.2 </tspan>
+<tspan x="10" y="1674">  │ │ ├── is-directory@0.3.1 </tspan>
+<tspan x="10" y="1690">  │ │ ├─┬ js-yaml@3.8.3 </tspan>
+<tspan x="10" y="1706">  │ │ │ ├─┬ argparse@1.0.9 </tspan>
+<tspan x="10" y="1722">  │ │ │ │ └── sprintf-js@1.0.3 </tspan>
+<tspan x="10" y="1738">  │ │ │ └── esprima@3.1.3 </tspan>
+<tspan x="10" y="1754">  │ │ ├─┬ json-parse-helpfulerror@1.0.3 </tspan>
+<tspan x="10" y="1770">  │ │ │ └── jju@1.3.0 </tspan>
+<tspan x="10" y="1786">  │ │ ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="1802">  │ │ ├── os-homedir@1.0.2 </tspan>
 <tspan x="10" y="1818">  │ │ └── require-from-string@1.2.1 </tspan>
 <tspan x="10" y="1834">  │ ├── postcss-load-options@1.2.0 </tspan>
 <tspan x="10" y="1850">  │ └── postcss-load-plugins@2.3.0 </tspan>
@@ -133,27 +133,30 @@
 <tspan x="10" y="2090">    │ │ └── path-exists@2.1.0 </tspan>
 <tspan x="10" y="2106">    │ └─┬ read-pkg@1.1.0 </tspan>
 <tspan x="10" y="2122">    │   ├─┬ load-json-file@1.1.0 </tspan>
-<tspan x="10" y="2138">    │   │ └─┬ strip-bom@2.0.0 </tspan>
-<tspan x="10" y="2154">    │   │   └── is-utf8@0.2.1 </tspan>
-<tspan x="10" y="2170">    │   ├─┬ normalize-package-data@2.3.6 </tspan>
-<tspan x="10" y="2186">    │   │ ├── hosted-git-info@2.4.2 </tspan>
-<tspan x="10" y="2202">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
-<tspan x="10" y="2218">    │   │ │ └── builtin-modules@1.1.1 </tspan>
-<tspan x="10" y="2234">    │   │ ├── semver@5.3.0 </tspan>
-<tspan x="10" y="2250">    │   │ └─┬ validate-npm-package-license@3.0.1 </tspan>
-<tspan x="10" y="2266">    │   │   ├─┬ spdx-correct@1.0.2 </tspan>
-<tspan x="10" y="2282">    │   │   │ └── spdx-license-ids@1.2.2 </tspan>
-<tspan x="10" y="2298">    │   │   └── spdx-expression-parse@1.0.4 </tspan>
-<tspan x="10" y="2314">    │   └── path-type@1.1.0 </tspan>
-<tspan x="10" y="2330">    ├── require-directory@2.1.1 </tspan>
-<tspan x="10" y="2346">    ├── require-main-filename@1.0.1 </tspan>
-<tspan x="10" y="2362">    ├── set-blocking@2.0.0 </tspan>
-<tspan x="10" y="2378">    ├─┬ string-width@1.0.2 </tspan>
-<tspan x="10" y="2394">    │ ├── code-point-at@1.1.0 </tspan>
-<tspan x="10" y="2410">    │ └─┬ is-fullwidth-code-point@1.0.0 </tspan>
-<tspan x="10" y="2426">    │   └── number-is-nan@1.0.1 </tspan>
-<tspan x="10" y="2442">    ├── which-module@1.0.0 </tspan>
-<tspan x="10" y="2458">    ├── y18n@3.2.1 </tspan>
-<tspan x="10" y="2474">    └── yargs-parser@5.0.0</tspan>
+<tspan x="10" y="2138">    │   │ ├─┬ parse-json@2.2.0 </tspan>
+<tspan x="10" y="2154">    │   │ │ └─┬ error-ex@1.3.1 </tspan>
+<tspan x="10" y="2170">    │   │ │   └── is-arrayish@0.2.1 </tspan>
+<tspan x="10" y="2186">    │   │ └─┬ strip-bom@2.0.0 </tspan>
+<tspan x="10" y="2202">    │   │   └── is-utf8@0.2.1 </tspan>
+<tspan x="10" y="2218">    │   ├─┬ normalize-package-data@2.3.8 </tspan>
+<tspan x="10" y="2234">    │   │ ├── hosted-git-info@2.4.2 </tspan>
+<tspan x="10" y="2250">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
+<tspan x="10" y="2266">    │   │ │ └── builtin-modules@1.1.1 </tspan>
+<tspan x="10" y="2282">    │   │ ├── semver@5.3.0 </tspan>
+<tspan x="10" y="2298">    │   │ └─┬ validate-npm-package-license@3.0.1 </tspan>
+<tspan x="10" y="2314">    │   │   ├─┬ spdx-correct@1.0.2 </tspan>
+<tspan x="10" y="2330">    │   │   │ └── spdx-license-ids@1.2.2 </tspan>
+<tspan x="10" y="2346">    │   │   └── spdx-expression-parse@1.0.4 </tspan>
+<tspan x="10" y="2362">    │   └── path-type@1.1.0 </tspan>
+<tspan x="10" y="2378">    ├── require-directory@2.1.1 </tspan>
+<tspan x="10" y="2394">    ├── require-main-filename@1.0.1 </tspan>
+<tspan x="10" y="2410">    ├── set-blocking@2.0.0 </tspan>
+<tspan x="10" y="2426">    ├─┬ string-width@1.0.2 </tspan>
+<tspan x="10" y="2442">    │ ├── code-point-at@1.1.0 </tspan>
+<tspan x="10" y="2458">    │ └─┬ is-fullwidth-code-point@1.0.0 </tspan>
+<tspan x="10" y="2474">    │   └── number-is-nan@1.0.1 </tspan>
+<tspan x="10" y="2490">    ├── which-module@1.0.0 </tspan>
+<tspan x="10" y="2506">    ├── y18n@3.2.1 </tspan>
+<tspan x="10" y="2522">    └── yargs-parser@5.0.0</tspan>
 </text>
 </svg>
